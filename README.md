@@ -1,13 +1,13 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Saibal Bera</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate learner</h3>
 <img align="right" alt="Coding" width="400" src="https://pin.it/4QEh7za">
 
 <p align="left"> <a href="https://twitter.com/saibalbera1" target="blank"><img src="https://img.shields.io/twitter/follow/saibalbera1?logo=twitter&style=for-the-badge" alt="saibalbera1" /></a> </p>
 
 - 🔭 I’m currently working on [Image Dehazing Advancement(Real-ESRGAN)](https://colab.research.google.com/drive/1zyh_hBS2vis6n1opCloxzACLGs51UWcO?usp=sharing)
 
-- 💬 Ask me about **I am a final year BTECH student driven by a desire to join the ARMY. Beyond that, I'm an avid coder and hardware enthusiast. Gaming fuels my competitive spirit and offers an escape. Balancing my passion for technology with my patriotic aspirations, I embrace the limitless potential they offer.**
+- 💬 **I am a final year BTECH student driven by a desire to join the ARMY. Beyond that, I'm an avid coder and hardware enthusiast. Gaming fuels my competitive spirit and offers an escape. Balancing my passion for technology with my patriotic aspirations, I embrace the limitless potential they offer.**
 
 - 📫 How to reach me **berasaibal20@gmail.com**
 
