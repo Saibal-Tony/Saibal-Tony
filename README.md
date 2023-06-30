@@ -1,13 +1,15 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Saibal Bera</h1>
-<h3 align="center">A passionate learner</h3>
-<img align="right" alt="Coding" width="400" src="[https://pin.it/4QEh7za](https://www.gifcen.com/wp-content/uploads/2023/02/one-piece-gif-17.gif)">
+<h3 align="center">A Passionate Learner</h3>
+<h3 align="center">Anime Fan</h3>
+<h3 align="center">Game Lover</h3>
+<img align="right" alt="Coding1" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/02/one-piece-gif-17.gif">
 
 <p align="left"> <a href="https://twitter.com/saibalbera1" target="blank"><img src="https://img.shields.io/twitter/follow/saibalbera1?logo=twitter&style=for-the-badge" alt="saibalbera1" /></a> </p>
 
 - 🔭 I’m currently working on [Image Dehazing Advancement(Real-ESRGAN)](https://colab.research.google.com/drive/1zyh_hBS2vis6n1opCloxzACLGs51UWcO?usp=sharing)
 
-- 💬 **I am a final year BTECH student driven by a desire to join the ARMY. Beyond that, I'm an avid coder and hardware enthusiast. Gaming fuels my competitive spirit and offers an escape. Balancing my passion for technology with my patriotic aspirations, I embrace the limitless potential they offer.**
+- 💬 Ask me about **I am a final year BTECH student driven by a desire to join the ARMY. Beyond that, I'm an avid coder and hardware enthusiast. Gaming fuels my competitive spirit and offers an escape. Balancing my passion for technology with my patriotic aspirations, I embrace the limitless potential they offer.**
 
 - 📫 How to reach me **berasaibal20@gmail.com**
 
