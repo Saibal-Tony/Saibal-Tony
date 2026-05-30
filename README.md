@@ -64,15 +64,27 @@
 
 ---
 
-### 📊 GitHub Metrics
+### 📊 GitHub Metrics & Achievements
 
-<table border="0">
+<p align="center">
+  <a href="https://github.com/saibal-bera">
+    <img src="https://github-profile-trophy.vercel.app/?username=saibal-bera&theme=onedark&column=7&margin-w=15" alt="Saibal's GitHub Trophies" width="100%" />
+  </a>
+</p>
+
+<br>
+
+<table border="0" align="center" width="100%">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=saibal-tony&show_icons=true&locale=en&theme=dark" alt="Saibal General Stats" height="150" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=saibal-bera&show_icons=true&theme=tokyonight&locale=en" alt="Saibal's General Stats" height="160" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saibal-tony&show_icons=true&locale=en&layout=compact&theme=dark" alt="Saibal Top Languages" height="150" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=saibal-bera&theme=tokyonight" alt="Saibal's Contribution Streak" height="160" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saibal-bera&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Saibal's Top Languages" width="450" />
+</p>
