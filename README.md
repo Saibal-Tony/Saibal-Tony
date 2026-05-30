@@ -67,13 +67,11 @@
 ### 📊 Account Summary
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/saibal-bera?label=Followers&style=for-the-badge&color=211F1F&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/saibal-tony?label=Followers&style=for-the-badge&color=211F1F&logo=github" alt="Followers" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/saibal-bera?label=Total%20Stars&style=for-the-badge&color=211F1F&logo=github" alt="Total Stars" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/repo-count/saibal-bera?label=Repositories&style=for-the-badge&color=211F1F&logo=github" alt="Repo Count" />
+  <img src="https://img.shields.io/github/stars/saibal-tony?label=Total%20Stars&style=for-the-badge&color=211F1F&logo=github" alt="Total Stars" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saibal-bera&theme=react-dark" alt="Saibal's Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saibal-tony&theme=react-dark" alt="Saibal's Contribution Graph" width="100%" />
 </p>
