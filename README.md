@@ -18,9 +18,9 @@
 <img align="right" alt="One Piece Coding" width="380" src="https://www.gifcen.com/wp-content/uploads/2023/02/one-piece-gif-17.gif">
 
 - 🔭 **Current Focus:** I am currently advancing computer vision implementations via [Image Dehazing (Real-ESRGAN)](https://colab.research.google.com/drive/1zyh_hBS2vis6n1opCloxzACLGs51UWcO?usp=sharing).
-- 💬 **My Drive:** I am a technology graduate heavily driven by an aspiration to serve my nation in the Armed Forces. I actively balance my technical deep-dives into software development and hardware engineering with a disciplined, patriotic outlook. 
+- 💬 **My Drive:** I am a technology graduate heavily driven by an aspiration to serve my nation in the Armed Forces[cite: 1]. I actively balance my technical deep-dives into software development and hardware engineering with a disciplined, patriotic outlook. 
 - 🎮 **Passions:** When I'm not writing code, I'm fueling my competitive strategy skills through gaming or catching up on my favorite anime.
-- 📫 **Reach Me:** Drop an email at **berasaibal20@gmail.com**
+- 📫 **Reach Me:** Drop an email at **berasaibal20@gmail.com**[cite: 1]
 
 ---
 
@@ -64,15 +64,36 @@
 
 ---
 
-### 📊 GitHub Metrics
+### 📊 Account Summary
 
-<table border="0">
+<p align="center">
+  <img src="https://img.shields.io/github/followers/saibal-tony?label=Followers&style=for-the-badge&color=211F1F&logo=github" alt="Followers" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/saibal-tony?label=Total%20Stars&style=for-the-badge&color=211F1F&logo=github" alt="Total Stars" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saibal-tony&theme=react-dark" alt="Saibal's Contribution Graph" width="100%" />
+</p>
+
+---
+
+### ⏳ Coding Dynamics & Language Split
+
+<table border="0" align="center" width="100%">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=saibal-tony&show_icons=true&locale=en&theme=dark" alt="Saibal General Stats" height="150" />
+    <td align="center" width="50%">
+      <!-- Displays languages and the percentage/days you spent on them -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saibal-tony&show_icons=true&locale=en&layout=compact&theme=react-dark&hide_border=true" alt="Saibal's Top Languages" height="200" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saibal-tony&show_icons=true&locale=en&layout=compact&theme=dark" alt="Saibal Top Languages" height="150" />
+    <td align="center" width="50%">
+      <!-- Displays weekly commit distributions across your active projects -->
+      <img src="https://github-readme-stats.vercel.app/api?username=saibal-tony&show_icons=true&locale=en&theme=react-dark&hide_border=true" alt="Saibal's Project Metrics" height="200" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.verve.ink/api/cards/profile-details?username=saibal-tony&theme=react-dark" alt="Saibal's Detailed Productivity Split" width="100%" />
+</p>
+
