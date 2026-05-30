@@ -72,35 +72,40 @@
   <img src="https://img.shields.io/github/stars/saibal-tony?label=Total%20Stars&style=for-the-badge&color=211F1F&logo=github" alt="Total Stars" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saibal-tony&theme=react-dark" alt="Saibal's Contribution Graph" width="100%" />
+---
+
+### 🧮 Language Allocation & Coding Weight
+
+<!-- Simulated GitHub Native Language Progress Bar Component -->
+<span title="Java Code Weights">
+  <img src="https://progress-bar.dev/70/?title=Java&color=orange&width=600" alt="Java 70%" />
+</span>
+<br>
+<span title="Jupyter Notebook / ML Weights">
+  <img src="https://progress-bar.dev/15/?title=Jupyter%20Notebook&color=da5b0b&width=600" alt="Jupyter Notebook 15%" />
+</span>
+<br>
+<span title="HTML / CSS Interface Weights">
+  <img src="https://progress-bar.dev/10/?title=HTML/CSS&color=e34c26&width=600" alt="HTML 10%" />
+</span>
+<br>
+<span title="Core C++ & Algorithms Weights">
+  <img src="https://progress-bar.dev/5/?title=C%2B%2B&color=00599c&width=600" alt="C++ 5%" />
+</span>
+
+<p align="left">
+  <br>
+  🟨 <strong>Java</strong> (70%) &nbsp;&nbsp;
+  🟧 <strong>Jupyter Notebook</strong> (15%) &nbsp;&nbsp;
+  🟥 <strong>HTML/CSS</strong> (10%) &nbsp;&nbsp;
+  🟦 <strong>C++</strong> (5%)
 </p>
 
 ---
 
-### ⏳ Coding Dynamics & Key Projects
-
-<table border="0" align="center" width="100%">
-  <tr>
-    <td align="left" width="50%" valign="top">
-      <strong>💻 Most Worked Languages:</strong><br><br>
-      <img src="https://img.shields.io/badge/Java-Enterprise%20Core-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /><br>
-      <img src="https://img.shields.io/badge/Python-Automation%20%26%20ML-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br>
-      <img src="https://img.shields.io/badge/C++-Data%20Structures-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /><br>
-      <img src="https://img.shields.io/badge/MySQL-Database%20Design-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /><br>
-      <img src="https://img.shields.io/badge/JavaScript-Web%20Apps-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    </td>
-    <td align="center" width="50%" valign="top">
-      <strong>🔥 Coding Consistency Streak:</strong><br><br>
-      <!-- Alternate high-availability streak counter host -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=saibal-tony&theme=react&hide_border=true" alt="Saibal's Coding Streak" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br>
+### 🟩 Nostalgic Day-by-Day Contributions
 
 <p align="center">
-  <strong>📈 Day-by-Day Commit Distribution Profile:</strong><br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saibal-tony&theme=github-compact" alt="Saibal's Dense Work Metrics" width="100%" />
+  <!-- Dynamic, High-Availability Classic Green Grid Calendar Matrix -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saibal-tony&theme=github" alt="Saibal's Classic Calendar Grid" width="100%" />
 </p>
