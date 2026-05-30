@@ -18,9 +18,9 @@
 <img align="right" alt="One Piece Coding" width="380" src="https://www.gifcen.com/wp-content/uploads/2023/02/one-piece-gif-17.gif">
 
 - 🔭 **Current Focus:** I am currently advancing computer vision implementations via [Image Dehazing (Real-ESRGAN)](https://colab.research.google.com/drive/1zyh_hBS2vis6n1opCloxzACLGs51UWcO?usp=sharing).
-- 💬 **My Drive:** I am a technology graduate heavily driven by an aspiration to serve my nation in the Armed Forces. I actively balance my technical deep-dives into software development and hardware engineering with a disciplined, patriotic outlook. 
+- 💬 **My Drive:** I am a technology graduate heavily driven by an aspiration to serve my nation in the Armed Forces[cite: 1]. I actively balance my technical deep-dives into software development and hardware engineering with a disciplined, patriotic outlook. 
 - 🎮 **Passions:** When I'm not writing code, I'm fueling my competitive strategy skills through gaming or catching up on my favorite anime.
-- 📫 **Reach Me:** Drop an email at **berasaibal20@gmail.com**
+- 📫 **Reach Me:** Drop an email at **berasaibal20@gmail.com**[cite: 1]
 
 ---
 
@@ -64,27 +64,16 @@
 
 ---
 
-### 📊 GitHub Metrics & Achievements
+### 📊 Account Summary
 
 <p align="center">
-  <a href="https://github.com/saibal-bera">
-    <img src="https://github-profile-trophy.vercel.app/?username=saibal-bera&theme=onedark&column=7&margin-w=15" alt="Saibal's GitHub Trophies" width="100%" />
-  </a>
+  <img src="https://img.shields.io/github/followers/saibal-bera?label=Followers&style=for-the-badge&color=211F1F&logo=github" alt="Followers" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/saibal-bera?label=Total%20Stars&style=for-the-badge&color=211F1F&logo=github" alt="Total Stars" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/repo-count/saibal-bera?label=Repositories&style=for-the-badge&color=211F1F&logo=github" alt="Repo Count" />
 </p>
 
-<br>
-
-<table border="0" align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=saibal-bera&show_icons=true&theme=tokyonight&locale=en" alt="Saibal's General Stats" height="160" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=saibal-bera&theme=tokyonight" alt="Saibal's Contribution Streak" height="160" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saibal-bera&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Saibal's Top Languages" width="450" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saibal-bera&theme=react-dark" alt="Saibal's Contribution Graph" width="100%" />
 </p>
