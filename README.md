@@ -148,10 +148,28 @@ Building intelligent systems through Artificial Intelligence, Computer Vision, I
 
 ---
 
-## 📅 Contribution Calendar
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Saibal-Tony" alt="GitHub Contribution Calendar"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Saibal-Tony&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saibal-Tony&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Saibal-Tony&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saibal-Tony&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
