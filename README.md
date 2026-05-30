@@ -85,8 +85,8 @@
 </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saibal-tony&show_icons=true&locale=en&layout=compact" alt="saibal-tony" /></p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saibal-Tony&show_icons=true&theme=tokyonight" />
 
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saibal-Tony&layout=compact&theme=tokyonight" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saibal-tony&show_icons=true&locale=en" alt="Saibal-Tony" /></p>
