@@ -1,3 +1,5 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/saibal-tony)
+
 <h1 align="center">Hi 👋, I'm Saibal Bera</h1>
 
 <h3 align="center">
@@ -5,7 +7,7 @@ AI & Machine Learning Enthusiast | Full Stack Developer | Problem Solver
 </h3>
 
 <p align="center">
-Passionate about building intelligent systems and scalable applications that solve real-world problems through Artificial Intelligence, Computer Vision, and Modern Web Technologies.
+Building intelligent systems and scalable applications through Artificial Intelligence, Computer Vision, and Modern Web Technologies.
 </p>
 
 <p align="center">
@@ -15,50 +17,58 @@ Passionate about building intelligent systems and scalable applications that sol
   <a href="https://linkedin.com/in/saibal-bera">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://github.com/saibal-bera">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  <a href="https://github.com/saibal-tony">
+    <img src="https://img.shields.io/github/followers/saibal-tony?label=Followers&style=for-the-badge&logo=github">
   </a>
 </p>
 
 ---
 
+<img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/02/one-piece-gif-17.gif">
+
 ## 🚀 About Me
 
 🎓 B.Tech Graduate in Electronics & Communication Engineering
 
-💻 Passionate about AI, Machine Learning, Computer Vision, and Full Stack Development
+💻 Passionate about AI, Machine Learning, Computer Vision, Backend Development, and Full Stack Engineering
 
-🌱 Currently learning Backend Development, Docker, Cloud Technologies, and System Design
+🔭 Currently building AI-powered applications and Assistive Technology solutions
 
-🔭 Working on AI-powered applications and Assistive Technologies
+🌱 Learning Docker, System Design, Cloud Computing, Spring Boot, and Advanced Backend Development
 
-⚡ Strong interest in solving practical problems through software engineering
+🏆 Smart India Hackathon Finalist (Selected by ISRO)
 
-🏆 Smart India Hackathon Finalist
+👨‍🏫 Former ATL Instructor mentoring students in Robotics and Electronics
 
 📍 Kolkata, West Bengal, India
+
+📫 Reach me: **berasaibal20@gmail.com**
+
+⚡ Fun Fact: I enjoy building things that solve real-world problems.
 
 ---
 
 ## 🏆 Achievements
 
-- 🥈 Smart India Hackathon Finalist selected by ISRO
-- ⭐ 5-Star HackerRank Java Programmer
+- 🥈 Smart India Hackathon Finalist
+- ⭐ 5-Star Java Programmer on HackerRank
 - 🧩 Solved 250+ DSA Problems
-- 👨‍🏫 Mentored 50+ students as ATL Instructor
-- 🤖 Guided student teams to Regional Science Fair selections
+- 👨‍🏫 Mentored 50+ Students in Robotics & Electronics
+- 🤖 Guided Students to Regional Science Fair Selections
+- 🚀 Built AI, Computer Vision, IoT, and Web Development Projects
 
 ---
 
 ## 💼 Experience
 
 ### ATL Instructor | Kendriya Vidyalaya Command Hospital
-**Nov 2025 - Feb 2026**
 
-- Mentored 50+ students in Robotics and Electronics
-- Guided projects involving sensors, embedded systems, and automation
-- Trained students in circuit design and microcontroller programming
-- Developed hands-on learning modules and practical workshops
+**Nov 2025 – Feb 2026**
+
+- Mentored 50+ students in Robotics and Electronics.
+- Guided projects involving sensors, embedded systems, and automation.
+- Trained students in circuit design and microcontroller programming.
+- Developed hands-on learning modules and practical workshops.
 
 ---
 
@@ -66,29 +76,29 @@ Passionate about building intelligent systems and scalable applications that sol
 
 ### 🤟 Real-Time Object Detection for Non-Verbal Communication
 
-- Built using TensorFlow and Computer Vision
-- Detects hand gestures and converts them into text
-- Trained on custom datasets
-- Designed for future multilingual support
+- TensorFlow-based Computer Vision system
+- Converts hand gestures into text in real time
+- Custom dataset collection and optimization
+- Future multilingual support architecture
 
-### 🛒 E-Commerce Shopping Platform
+### 🛒 Luxora E-Commerce Platform
 
-- Full Stack Web Application
-- Responsive UI using HTML, CSS, and JavaScript
-- MySQL-powered backend
-- Designed for future AI-based recommendation systems
+- Responsive Full-Stack Shopping Platform
+- HTML, CSS, JavaScript, and MySQL
+- Secure user and product management
+- Designed for future AI recommendation integration
 
-### 🖼️ Image Enhancement System
+### 🖼️ Image Enhancement using Real-ESRGAN
 
-- Built using Real-ESRGAN
-- Enhances low-quality images into high-resolution outputs
-- Focused on image restoration and quality improvement
+- AI-powered image super-resolution
+- Restores and enhances low-quality images
+- Focused on image quality improvement
 
 ### 🦯 Smart Assistive Stick
 
-- AI + IoT based navigation system
-- Designed to assist visually impaired individuals
-- Integrates sensors and real-time obstacle detection
+- IoT + AI navigation system
+- Obstacle detection for visually impaired users
+- Real-time environmental awareness
 
 ---
 
@@ -112,10 +122,10 @@ Passionate about building intelligent systems and scalable applications that sol
 <img src="https://skillicons.dev/icons?i=mysql,supabase" />
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,idea,pycharm" />
 </p>
 
 ---
@@ -123,15 +133,23 @@ Passionate about building intelligent systems and scalable applications that sol
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saibal-bera&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saibal-tony&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibal-bera&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibal-tony&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saibal-bera&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saibal-tony&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saibal-tony&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -147,13 +165,27 @@ Passionate about building intelligent systems and scalable applications that sol
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://github.com/saibal-bera">
+<a href="https://github.com/saibal-tony">
 <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://leetcode.com/saibal_bera">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/>
+</a>
+
+<a href="https://www.hackerrank.com/berasaibal20">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="48"/>
 </a>
 </p>
 
 ---
 
-### 💡 Quote
+## 🎯 Current Focus
 
-> "Technology becomes meaningful when it improves lives."
+```java
+while(alive){
+    Learn();
+    Build();
+    Improve();
+    Repeat();
+}
