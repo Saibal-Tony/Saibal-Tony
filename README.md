@@ -133,11 +133,13 @@ Building intelligent systems and scalable applications through Artificial Intell
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saibal-tony&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=saibal-tony&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibal-tony&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibal-tony&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -146,10 +148,10 @@ Building intelligent systems and scalable applications through Artificial Intell
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saibal-tony&theme=tokyo-night&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
