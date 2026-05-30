@@ -2,29 +2,61 @@
 
 <h1 align="center">Hi 👋, I'm Saibal Bera</h1>
 
-<h3 align="center">A Passionate Learner</h3>
+<h3 align="center">
+AI & Machine Learning Enthusiast • Full Stack Developer • Problem Solver
+</h3>
 
-<h3 align="center">Anime Fan</h3>
+<p align="center">
+Building intelligent solutions through Artificial Intelligence, Computer Vision, IoT, and Modern Web Technologies.
+</p>
 
-<h3 align="center">Game Lover</h3>
+<img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/02/one-piece-gif-17.gif">
 
-<img align="right" alt="Coding1" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/02/one-piece-gif-17.gif">
+### 🚀 About Me
 
+🎓 B.Tech Graduate in Electronics & Communication Engineering
 
+🏆 Smart India Hackathon Finalist (Selected by ISRO)
 
-<p align="left"> <a href="https://twitter.com/saibalbera1" target="blank"><img src="https://img.shields.io/twitter/follow/saibalbera1?logo=twitter&style=for-the-badge" alt="saibalbera1" /></a> </p>
+👨‍🏫 Former ATL Instructor mentoring students in Robotics & Electronics
 
+💻 Passionate about:
 
+* Artificial Intelligence & Machine Learning
+* Computer Vision
+* Full Stack Development
+* Backend Engineering
+* IoT & Embedded Systems
 
-- 🔭 I’m currently working on [Image Dehazing Advancement(Real-ESRGAN)](https://colab.research.google.com/drive/1zyh_hBS2vis6n1opCloxzACLGs51UWcO?usp=sharing)
+🔭 Currently working on:
 
+**Enterprise-grade Full Stack Java Applications with Spring Boot, REST APIs, MySQL, Authentication, and Cloud-ready Architecture**
 
+🌱 Currently Learning:
 
-- 💬 Ask me about **I am a final year BTECH student driven by a desire to join the ARMY. Beyond that, I'm an avid coder and hardware enthusiast. Gaming fuels my competitive spirit and offers an escape. Balancing my passion for technology with my patriotic aspirations, I embrace the limitless potential they offer.**
+* Docker
+* Spring Boot
+* System Design
+* Cloud Computing
+* Advanced Backend Development
 
+💬 Ask me about:
 
+* Java
+* Python
+* Machine Learning
+* TensorFlow
+* Computer Vision
+* Web Development
+* Supabase
 
-- 📫 How to reach me **berasaibal20@gmail.com**
+📫 Reach me at:
+
+**[berasaibal20@gmail.com](mailto:berasaibal20@gmail.com)**
+
+⚡ Fun Fact:
+
+I enjoy building technology that solves real-world problems and improves people's lives.
 
 ---
 
@@ -85,8 +117,19 @@
 </a>
 </p>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saibal-Tony&show_icons=true&theme=tokyonight" />
+---
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saibal-Tony&layout=compact&theme=tokyonight" />
+<h2>📊 GitHub Analytics</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saibal-tony&show_icons=true&locale=en" alt="Saibal-Tony" /></p>
+<p align="center">
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saibal-Tony&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saibal-Tony&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
