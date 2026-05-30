@@ -78,22 +78,29 @@
 
 ---
 
-### ⏳ Coding Dynamics & Language Split
+### ⏳ Coding Dynamics & Key Projects
 
 <table border="0" align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
-      <!-- Displays languages and the percentage/days you spent on them -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saibal-tony&show_icons=true&locale=en&layout=compact&theme=react-dark&hide_border=true" alt="Saibal's Top Languages" height="200" />
+    <td align="left" width="50%" valign="top">
+      <strong>💻 Most Worked Languages:</strong><br><br>
+      <img src="https://img.shields.io/badge/Java-Enterprise%20Core-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /><br>
+      <img src="https://img.shields.io/badge/Python-Automation%20%26%20ML-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br>
+      <img src="https://img.shields.io/badge/C++-Data%20Structures-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /><br>
+      <img src="https://img.shields.io/badge/MySQL-Database%20Design-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /><br>
+      <img src="https://img.shields.io/badge/JavaScript-Web%20Apps-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     </td>
-    <td align="center" width="50%">
-      <!-- Displays weekly commit distributions across your active projects -->
-      <img src="https://github-readme-stats.vercel.app/api?username=saibal-tony&show_icons=true&locale=en&theme=react-dark&hide_border=true" alt="Saibal's Project Metrics" height="200" />
+    <td align="center" width="50%" valign="top">
+      <strong>🔥 Coding Consistency Streak:</strong><br><br>
+      <!-- Alternate high-availability streak counter host -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=saibal-tony&theme=react&hide_border=true" alt="Saibal's Coding Streak" width="100%" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.verve.ink/api/cards/profile-details?username=saibal-tony&theme=react-dark" alt="Saibal's Detailed Productivity Split" width="100%" />
-</p>
+<br>
 
+<p align="center">
+  <strong>📈 Day-by-Day Commit Distribution Profile:</strong><br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saibal-tony&theme=github-compact" alt="Saibal's Dense Work Metrics" width="100%" />
+</p>
