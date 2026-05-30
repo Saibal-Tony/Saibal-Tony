@@ -122,8 +122,8 @@ I enjoy building technology that solves real-world problems and improves people'
 <h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saibal-Tony&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saibal-Tony&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saibal-Tony&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saibal-Tony&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
