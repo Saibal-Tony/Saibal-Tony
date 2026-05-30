@@ -1,63 +1,159 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Saibal Bera</h1>
 
-<h3 align="center">A Passionate Learner</h3>
+<h3 align="center">
+AI & Machine Learning Enthusiast | Full Stack Developer | Problem Solver
+</h3>
 
-<h3 align="center">Anime Fan</h3>
-
-<h3 align="center">Game Lover</h3>
-
-<img align="right" alt="Coding1" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/02/one-piece-gif-17.gif">
-
-
-
-<p align="left"> <a href="https://twitter.com/saibalbera1" target="blank"><img src="https://img.shields.io/twitter/follow/saibalbera1?logo=twitter&style=for-the-badge" alt="saibalbera1" /></a> </p>
-
-
-
-- 🔭 I’m currently working on [Image Dehazing Advancement(Real-ESRGAN)](https://colab.research.google.com/drive/1zyh_hBS2vis6n1opCloxzACLGs51UWcO?usp=sharing)
-
-
-
-- 💬 Ask me about **I am a final year BTECH student driven by a desire to join the ARMY. Beyond that, I'm an avid coder and hardware enthusiast. Gaming fuels my competitive spirit and offers an escape. Balancing my passion for technology with my patriotic aspirations, I embrace the limitless potential they offer.**
-
-
-
-- 📫 How to reach me **berasaibal20@gmail.com**
-
-
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-<a href="https://twitter.com/saibalbera1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saibalbera1" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/saibal bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saibal bera" height="30" width="40" /></a>
-
-<a href="https://kaggle.com/tony_warhead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tony_warhead" height="30" width="40" /></a>
-
-<a href="https://fb.com/saibal bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saibal bera" height="30" width="40" /></a>
-
-<a href="https://instagram.com/_tony_warhead_01_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tony_warhead_01_" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/berasaibal20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="berasaibal20" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/saibal_bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saibal_bera" height="30" width="40" /></a>
-
+<p align="center">
+Passionate about building intelligent systems and scalable applications that solve real-world problems through Artificial Intelligence, Computer Vision, and Modern Web Technologies.
 </p>
 
+<p align="center">
+  <a href="mailto:berasaibal20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/saibal-bera">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/saibal-bera">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🚀 About Me
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+🎓 B.Tech Graduate in Electronics & Communication Engineering
 
+💻 Passionate about AI, Machine Learning, Computer Vision, and Full Stack Development
 
+🌱 Currently learning Backend Development, Docker, Cloud Technologies, and System Design
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saibal-tony&show_icons=true&locale=en&layout=compact" alt="saibal-tony" /></p>
+🔭 Working on AI-powered applications and Assistive Technologies
 
+⚡ Strong interest in solving practical problems through software engineering
 
+🏆 Smart India Hackathon Finalist
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saibal-tony&show_icons=true&locale=en" alt="saibal-tony" /></p>
+📍 Kolkata, West Bengal, India
+
+---
+
+## 🏆 Achievements
+
+- 🥈 Smart India Hackathon Finalist selected by ISRO
+- ⭐ 5-Star HackerRank Java Programmer
+- 🧩 Solved 250+ DSA Problems
+- 👨‍🏫 Mentored 50+ students as ATL Instructor
+- 🤖 Guided student teams to Regional Science Fair selections
+
+---
+
+## 💼 Experience
+
+### ATL Instructor | Kendriya Vidyalaya Command Hospital
+**Nov 2025 - Feb 2026**
+
+- Mentored 50+ students in Robotics and Electronics
+- Guided projects involving sensors, embedded systems, and automation
+- Trained students in circuit design and microcontroller programming
+- Developed hands-on learning modules and practical workshops
+
+---
+
+## 🔥 Featured Projects
+
+### 🤟 Real-Time Object Detection for Non-Verbal Communication
+
+- Built using TensorFlow and Computer Vision
+- Detects hand gestures and converts them into text
+- Trained on custom datasets
+- Designed for future multilingual support
+
+### 🛒 E-Commerce Shopping Platform
+
+- Full Stack Web Application
+- Responsive UI using HTML, CSS, and JavaScript
+- MySQL-powered backend
+- Designed for future AI-based recommendation systems
+
+### 🖼️ Image Enhancement System
+
+- Built using Real-ESRGAN
+- Enhances low-quality images into high-resolution outputs
+- Focused on image restoration and quality improvement
+
+### 🦯 Smart Assistive Stick
+
+- AI + IoT based navigation system
+- Designed to assist visually impaired individuals
+- Integrates sensors and real-time obstacle detection
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,react,nodejs" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,supabase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,idea" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=saibal-bera&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saibal-bera&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saibal-bera&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/saibal-bera">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:berasaibal20@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/saibal-bera">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+### 💡 Quote
+
+> "Technology becomes meaningful when it improves lives."
