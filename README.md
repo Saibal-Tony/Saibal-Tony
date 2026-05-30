@@ -1,50 +1,58 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/saibal-tony)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/Saibal-Tony)
 
 <h1 align="center">Hi 👋, I'm Saibal Bera</h1>
 
 <h3 align="center">
-AI & Machine Learning Enthusiast | Full Stack Developer | Problem Solver
+AI & Machine Learning Enthusiast • Full Stack Developer • Problem Solver
 </h3>
 
 <p align="center">
-Building intelligent systems and scalable applications through Artificial Intelligence, Computer Vision, and Modern Web Technologies.
+Building intelligent systems through Artificial Intelligence, Computer Vision, IoT, and Modern Web Technologies.
 </p>
 
 <p align="center">
   <a href="mailto:berasaibal20@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
+
   <a href="https://linkedin.com/in/saibal-bera">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://github.com/saibal-tony">
-    <img src="https://img.shields.io/github/followers/saibal-tony?label=Followers&style=for-the-badge&logo=github">
+
+  <a href="https://github.com/Saibal-Tony">
+    <img src="https://img.shields.io/github/followers/Saibal-Tony?label=Followers&style=for-the-badge&logo=github">
   </a>
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/02/one-piece-gif-17.gif">
+<img align="right" alt="Coding" width="380" src="https://www.gifcen.com/wp-content/uploads/2023/02/one-piece-gif-17.gif">
 
 ## 🚀 About Me
 
 🎓 B.Tech Graduate in Electronics & Communication Engineering
 
-💻 Passionate about AI, Machine Learning, Computer Vision, Backend Development, and Full Stack Engineering
-
-🔭 Currently building AI-powered applications and Assistive Technology solutions
-
-🌱 Learning Docker, System Design, Cloud Computing, Spring Boot, and Advanced Backend Development
+💻 Passionate about AI, Machine Learning, Backend Development, Full Stack Engineering, and Computer Vision
 
 🏆 Smart India Hackathon Finalist (Selected by ISRO)
 
 👨‍🏫 Former ATL Instructor mentoring students in Robotics and Electronics
 
+🔭 Building AI-powered applications and assistive technologies
+
+🌱 Currently learning:
+
+- Docker
+- System Design
+- Spring Boot
+- Cloud Computing
+- Advanced Backend Development
+
 📍 Kolkata, West Bengal, India
 
 📫 Reach me: **berasaibal20@gmail.com**
 
-⚡ Fun Fact: I enjoy building things that solve real-world problems.
+⚡ I love building technology that solves real-world problems.
 
 ---
 
@@ -55,7 +63,7 @@ Building intelligent systems and scalable applications through Artificial Intell
 - 🧩 Solved 250+ DSA Problems
 - 👨‍🏫 Mentored 50+ Students in Robotics & Electronics
 - 🤖 Guided Students to Regional Science Fair Selections
-- 🚀 Built AI, Computer Vision, IoT, and Web Development Projects
+- 🚀 Built AI, Computer Vision, IoT, and Full Stack Projects
 
 ---
 
@@ -65,34 +73,44 @@ Building intelligent systems and scalable applications through Artificial Intell
 
 **Nov 2025 – Feb 2026**
 
-- Mentored 50+ students in Robotics and Electronics.
-- Guided projects involving sensors, embedded systems, and automation.
-- Trained students in circuit design and microcontroller programming.
-- Developed hands-on learning modules and practical workshops.
+- Mentored 50+ students in Robotics and Electronics
+- Guided hardware and automation projects
+- Trained students in sensors and microcontrollers
+- Developed practical STEM learning workshops
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
 ### 🤟 Real-Time Object Detection for Non-Verbal Communication
 
-- TensorFlow-based Computer Vision system
+🔗 https://github.com/Saibal-Tony
+
+- TensorFlow-based gesture recognition system
 - Converts hand gestures into text in real time
-- Custom dataset collection and optimization
-- Future multilingual support architecture
+- Built using Computer Vision and Deep Learning
+- Designed for future multilingual support
+
+---
 
 ### 🛒 Luxora E-Commerce Platform
 
-- Responsive Full-Stack Shopping Platform
-- HTML, CSS, JavaScript, and MySQL
+🔗 https://github.com/Saibal-Tony
+
+- Responsive Full Stack Shopping Platform
+- Built using HTML, CSS, JavaScript, and MySQL
 - Secure user and product management
 - Designed for future AI recommendation integration
+
+---
 
 ### 🖼️ Image Enhancement using Real-ESRGAN
 
 - AI-powered image super-resolution
 - Restores and enhances low-quality images
 - Focused on image quality improvement
+
+---
 
 ### 🦯 Smart Assistive Stick
 
@@ -130,22 +148,10 @@ Building intelligent systems and scalable applications through Artificial Intell
 
 ---
 
-## 📊 GitHub Profile
+## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saibal-tony&theme=tokyonight&row=1&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saibal-tony&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://ghchart.rshah.org/Saibal-Tony" alt="GitHub Contribution Calendar"/>
 </p>
 
 ---
@@ -153,6 +159,7 @@ Building intelligent systems and scalable applications through Artificial Intell
 ## 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://linkedin.com/in/saibal-bera">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -161,7 +168,7 @@ Building intelligent systems and scalable applications through Artificial Intell
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://github.com/saibal-tony">
+<a href="https://github.com/Saibal-Tony">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
@@ -172,6 +179,7 @@ Building intelligent systems and scalable applications through Artificial Intell
 <a href="https://www.hackerrank.com/berasaibal20">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="48"/>
 </a>
+
 </p>
 
 ---
@@ -186,14 +194,13 @@ while(alive){
     Repeat();
 }
 ```
-## 🚀 Featured Repositories
 
-<a href="https://github.com/saibal-tony/REAL-TIME-OBJECT-DETECTION-FOR-ASSISTING-COMMUNICATION-IN-NON-VERBAL-INDIVIDUALS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saibal-tony&repo=REAL-TIME-OBJECT-DETECTION-FOR-ASSISTING-COMMUNICATION-IN-NON-VERBAL-INDIVIDUALS&theme=tokyonight" />
-</a>
-
-## 📅 Contribution Calendar
+---
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/saibal-tony" />
+  <img src="https://komarev.com/ghpvc/?username=Saibal-Tony&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+
+<h3 align="center">
+💡 "Technology becomes meaningful when it improves lives."
+</h3>
