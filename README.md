@@ -65,25 +65,25 @@ I enjoy building technology that solves real-world problems and improves people'
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,javascript,dart,ts" />
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=tensorflow,react,flutter,nodejs,pytorch,spring,tailwind,threejs,opencv" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,idea,pycharm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,arduino,docker,postman,vercel,maven,npm" />
 </p>
 
 ---
